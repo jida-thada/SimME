@@ -2,9 +2,8 @@
 
 
 ## File listing
-+ __main.py__ : Main code for SimME training
-+ __model.py__ : Supporting models
-+ __utils.py__ : Supporting functions
++ __simme.py__ : Main code for SimME training
++ __simme_utils.py__ : Supporting functions
 + __requirements.txt__ : Library requirements
 
 
