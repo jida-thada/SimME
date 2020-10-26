@@ -11,6 +11,8 @@
 
 Prepared folders:
 + __work__ : main directory for training 
+    + __log__ : directory for log
+    + __plot__ : directory for training loss plots
 + __sources__ : contains pretrained embedding sources (please paste text file of source embeddings here)
 + __data__ : contains all training word-pairs (please upload your own training word-pairs)
 + __simme_output__ : folder for outputing the SimME meta-embeddings
