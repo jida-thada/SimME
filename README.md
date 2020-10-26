@@ -1,5 +1,5 @@
-# SimME: Learning Similarity-Preserving Meta-Embedding for Text Mining
-
+# SimME
+Code for BigData 2020 paper *Learning Similarity-Preserving Meta-Embedding for Text Mining*
 
 ## File listing
 + __simme.py__ : Main code for SimME training
