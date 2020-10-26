@@ -24,10 +24,10 @@ Prepared folders:
 Run script in work directory as:
 
 ### Prepare training data
-    python simme.py -embname wikibio --gendata -pairs_filename '../data/pairs.txt' -source_filename '../sources/wiki200.txt' '../sources/biomed.txt' -source_embdim 200 200 
+    python simme.py -embname wikibio --gendata -pairs_filename '../data/pairs_example_file.txt' -source_filename '../sources/wiki200.txt' '../sources/biomed.txt' -source_embdim 200 200 
     
 ### Train SimME meta-embeddings
-    python simme.py -embname wikibio --train -embdim 200 -pairs_filename '../data/pairs.txt' -runid 0 
+    python simme.py -embname wikibio --train -embdim 200 -pairs_filename '../data/pairs_example_file.txt' -runid 0 
     
     
 <b>Parameters:</b>
